@@ -5,9 +5,9 @@ public class timeEnglish {
 		// TODO Auto-generated method stub
 		
 		Scanner in=new Scanner(System.in);
-		System.out.println("Enter the hour _ _ :");
+		System.out.println("Enter the hour (digits: _ _ ):");
 		int hr=in.nextInt();
-		System.out.println("Enter the minutes _ _:");
+		System.out.println("Enter the minutes (digits: _ _) :");
 		int min=in.nextInt();
 		System.out.println(getTimeName(hr, min));
 	}
