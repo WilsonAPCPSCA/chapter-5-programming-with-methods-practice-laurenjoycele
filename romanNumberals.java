@@ -1,4 +1,11 @@
 import java.util.Scanner;
+
+/** This program turns an integer between the exclusive interval (0,1000) into a Roman Numeral
+ * 
+ * Lauren Le 
+ * Ch.5 Programming with Methods Practice
+ *
+ */
 public class romanNumberals {
 
 	public static void main(String[] args) {
